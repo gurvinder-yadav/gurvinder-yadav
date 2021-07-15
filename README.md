@@ -54,7 +54,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Gurvinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurvinder-yadav)](https://github.com/gurvinder-yadav/github-readme-stats)
+[![Gurvinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurvinder-yadav)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
