@@ -31,12 +31,12 @@
 <br />
 
 ---
-
+<details>
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
+</details>
 ➡️ [more videos...](https://www.youtube.com/channel/UC0oAjUVfuDOz06qiXZZTGHw)
 
 ---
