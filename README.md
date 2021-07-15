@@ -36,7 +36,6 @@
 
 <!-- YOUTUBE:START -->
 - [temp](https://www.youtube.com/watch?v=OI5e_rKZgH0)
-- [Linga Bhairavi Stuthi By Sadhguru With Lyrics   Devotional Song   Sounds of Isha](https://www.youtube.com/watch?v=UFz-umi43bE)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UC0oAjUVfuDOz06qiXZZTGHw)
 
