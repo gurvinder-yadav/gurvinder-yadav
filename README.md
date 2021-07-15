@@ -31,34 +31,31 @@
 <br />
 
 ---
-<details>
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-</details>
 ➡️ [more videos...](https://www.youtube.com/channel/UC0oAjUVfuDOz06qiXZZTGHw)
 
 ---
 
 
-<details>
+
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
+---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurvinder-yadav)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-</details>
 
 [twitter]: https://twitter.com/Ashu37019468
 [youtube]: https://www.youtube.com/channel/UC0oAjUVfuDOz06qiXZZTGHw
