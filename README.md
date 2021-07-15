@@ -54,7 +54,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gurvinder-yadav&show_icons=true&hide_border=true" />
+[![Gurvinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurvinder-yadav)](https://github.com/gurvinder-yadav/github-readme-stats)
+
 
 </details>
 
